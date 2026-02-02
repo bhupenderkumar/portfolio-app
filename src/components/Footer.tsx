@@ -20,7 +20,7 @@ const Footer = () => {
     social: [
       { icon: <Github className="w-5 h-5" />, href: 'https://github.com/bhupenderkumar', label: 'GitHub' },
       { icon: <Linkedin className="w-5 h-5" />, href: 'https://linkedin.com/in/bhupik', label: 'LinkedIn' },
-      { icon: <Twitter className="w-5 h-5" />, href: 'https://twitter.com/bhupik', label: 'Twitter' },
+      { icon: <Twitter className="w-5 h-5" />, href: 'https://x.com/java_angular', label: 'Twitter' },
       { icon: <Mail className="w-5 h-5" />, href: 'mailto:rajus9231@gmail.com', label: 'Email' },
     ],
   }

@@ -95,7 +95,7 @@ const Contact = () => {
     {
       icon: <Twitter className="w-5 h-5" />,
       label: 'Twitter',
-      href: 'https://twitter.com/bhupik',
+      href: 'https://x.com/java_angular',
       color: 'hover:text-sky-400',
     },
   ]
